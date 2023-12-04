@@ -2,6 +2,7 @@
 
 
 **Introduction**
+
 Welcome to our GitHub repository for the INSY662 Team 4 project, focused on predicting the popularity and profitability of YouTube channels. This project is a collaborative effort by Xiaorong Tian, Jiaxuan Wang, Siqi Wang, Hongyi Zhan, and Kelly Kao.
 
 **Project Overview**
@@ -16,15 +17,15 @@ The primary objective of our project is to analyze how various factors - includi
 
 We utilize a comprehensive dataset containing 28 columns and 996 rows, offering detailed information about YouTube channels and the demographic data of the regions they belong to. This dataset includes both numerical variables (like subscriber counts, video views, monthly and yearly earnings) and categorical variables (such as country and channel type).
 
-Our findings highlight significant correlations between demographic data and channel performance, revealing a substantial gap in income and performance among YouTubers. We discovered that a YouTuber's performance is highly dependent on their channel category​​.
+Our findings highlight significant correlations between demographic data and channel performance, revealing a substantial gap in income and performance among YouTubers. We discovered that a YouTuber's performance is highly dependent on their channel category​.
 
-The core of our analysis revolves around two target variables: CPM and Growth Potential. CPM is calculated using a formula involving yearly earnings and video views, while Growth Potential is derived from a formula involving monthly earnings and subscriber counts​​.
+The core of our analysis revolves around two target variables: CPM and Growth Potential. CPM is calculated using a formula involving yearly earnings and video views, while Growth Potential is derived from a formula involving monthly earnings and subscriber counts​.
 
-Our process flow includes several analytical steps such as anomaly detection, multicollinearity checks, and the use of various statistical models like Random Forest, Lasso Selection, Linear Mixed-effects Model, and Elastic Net Regression​​.
+Our process flow includes several analytical steps such as anomaly detection, multicollinearity checks, and the use of various statistical models like Random Forest, Lasso Selection, Linear Mixed-effects Model, and Elastic Net Regression​.
 
 **Applications and Benefits**
 
-Our solutions are designed to assist various stakeholders in the YouTube ecosystem. Marketers can identify crucial factors for collaboration with content creators, optimize investment portfolios, and refine marketing strategies for maximum ROI. Creators can conduct thorough performance reviews, focus on profitability-enhancing factors, and gain bargaining power in advertising negotiations. Platforms can gain deeper insights into creator dynamics, identify beneficial predictors for channel success, and develop customized growth strategies, thereby enhancing their appeal to advertisers​​.
+Our solutions are designed to assist various stakeholders in the YouTube ecosystem. Marketers can identify crucial factors for collaboration with content creators, optimize investment portfolios, and refine marketing strategies for maximum ROI. Creators can conduct thorough performance reviews, focus on profitability-enhancing factors, and gain bargaining power in advertising negotiations. Platforms can gain deeper insights into creator dynamics, identify beneficial predictors for channel success, and develop customized growth strategies, thereby enhancing their appeal to advertisers​.
 
 We invite you to explore our repository and delve into the fascinating world of YouTube analytics with us. For more information and detailed analysis, please refer to the subsequent sections.
 
